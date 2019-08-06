@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">travel2</string>
+    <string name="save_menu">save</string>
 </resources>
